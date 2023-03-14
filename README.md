@@ -1,2 +1,2 @@
 # cv
-This is a test CV from a udemy course
+This is a test CV from a course (Udemy.com)
